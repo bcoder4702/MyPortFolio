@@ -533,27 +533,27 @@ img {
 }
 
 .skills__python {
-  width: 60%;
-}
-
-.skills__tab {
-  width: 70%;
-}
-
-.skills__sql {
-  width: 50%;
-}
-
-.skills__google {
-  width: 70%;
-}
-
-.skills__bank {
   width: 80%;
 }
 
-.skills__google {
+.skills__tab {
+  width: 90%;
+}
+
+.skills__sql {
+  width: 80%;
+}
+
+/* .skills__google {
+  width: 80%;
+} */
+
+.skills__bank {
   width: 70%;
+}
+
+.skills__google {
+  width: 80%;
 }
 
 .skills__counter {
@@ -561,7 +561,7 @@ img {
 }
 
 .skills__office {
-  width: 90%;
+  width: 75%;
 }
 
 .skills__close .skills__list {
